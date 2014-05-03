@@ -1,0 +1,6 @@
+[submodule "models"]
+	path = models
+	url = https://github.com/team-diana/gazebo-models.git
+[submodule "worlds"]
+	path = worlds
+	url = https://github.com/team-diana/gazebo-worlds.git
